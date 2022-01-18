@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Modificar Usuario">
+        <PreferenceCategory android:title="Usuario">
+
+            <EditTextPreference
+                android:defaultValue="true"
+                android:key="edit_text_preference_1"
+                android:selectAllOnFocus="true"
+                android:singleLine="true"
+                android:title="Usuario " />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="Contraseña">
+
+            <EditTextPreference
+                android:defaultValue="true"
+                android:key="edit_text_preference_1"
+                android:selectAllOnFocus="true"
+                android:singleLine="true"
+                android:title="Contraseña" />
+        </PreferenceCategory>
+    </PreferenceCategory>
+</PreferenceScreen>

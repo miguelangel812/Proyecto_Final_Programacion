@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/drawable/button_register.xml" value="0.1" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/activity_meme.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/activity_registro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/custom_item_list.xml" value="0.18277153558052434" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/custom_item_list_biblioteca.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/menu_principal.xml" value="0.2057142857142857" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/pagina_ajustes.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/pagina_biblioteca.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/pagina_equipo.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/pagina_meme.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/pagina_mercado.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/pagina_seguimiento.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/layout/registro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/menu/action_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/menu/menu_floating.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/menu/menu_guardar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/migue/AndroidStudioProjects/Proyecto_Final_Programacion/app/src/main/res/xml/root_preferences.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
